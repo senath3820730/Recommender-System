@@ -1,7 +1,6 @@
 recommenders.py:
 
-3 models are trained and used to predict targets for this recommender system.
-
+3 models are trained and used to predict targets for the beer dataset.
 
 
  - Sweep is set to False, set it to True in order to run the grid search.
